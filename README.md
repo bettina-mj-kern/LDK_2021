@@ -5,7 +5,7 @@ This repository accompanies the LDK 2021 submission 'A review and cluster analys
 If you make use of the code or other outputs from this research, please make sure to cite it accordingly: Kern, B.M.J., Baumann, A., Kolb, T.E., Sekanina, K., Hofmann, K., Wissik, T., & Neidhardt, J. (2021). A review and cluster analysis of German polarity resources for sentiment analysis. 3rd Conference of Language, Data and Knowledge (LDK), 25:1–25:16.
 .
 
-If you make any use of one of the individual sentiment resources, please also credit the original creators. We provided the accompanying papers in the 'papers' folder in this repository.
+If you make any use of one of the individual sentiment resources, please also credit the original creators in the reference list.
 
 Please note that it is not the aim of the research project to create a ready-to-use polarity resource for sentiment analysis. The heart of the research project is mapping out the landscape of German polarity resources. The  master dictionary is a product of the research process and is made available to the scientific community to encourage and facilitate further research in this area. 
 
